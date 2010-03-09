@@ -1,6 +1,7 @@
-= gloo
+= Gloo
 
-Description goes here.
+Gloo is built to allow for cross-ORM relationships. It is not ready for public
+release yet, so please move along. Nothing to see here.
 
 == Note on Patches/Pull Requests
  
@@ -15,4 +16,4 @@ Description goes here.
 
 == Copyright
 
-Copyright (c) 2010 Michael Bleigh. See LICENSE for details.
+Copyright (c) 2010 Intridea, Inc. and Michael Bleigh. See LICENSE for details.
